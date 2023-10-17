@@ -7,7 +7,7 @@ function App() {
     <header className='text-gray-700 border-b border-white-900'>
       <div className='container flex mx-auto p-5 flex-col md:flex-row items-center'>
         <a href='#' className='font-medium text-gray-900 mb-4 md:mb-0'>
-          <span className='text-x1 ml-3'><img src="img/S__95608835.JPG" alt="logo" width="500" height="500" /></span>
+          <span className='text-x1 ml-3'><img src="img/S__95608835.JPG" alt="logo" width="250" height="250" /></span>
         </a>
         <nav className='md:ml-auto text-base'>
           <a href='#home' className='mr-5 hover:text-blue-400 duration-300'>
@@ -29,7 +29,7 @@ function App() {
     <section>
       <div className='flex container mx-auto py-20 px-5 flex-col md:flex-row items-center'>
         <div className='md:w-1/2 flex-grow mb-16 lg:pr-24 md:pr-16 text-center'>
-          <h1 className='text-3xl sm:text-6xl text-gray-900 font-medium mb-4'>Hi!
+          <h1 className='text-3xl sm:text-6xl text-gray-900 font-medium mb-4'>Hi!!
             <br />
             We are webuild!
             <br />

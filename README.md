@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 # Training_Model
 # Training_Model1
 # nekojiru
+# hina

@@ -7,7 +7,7 @@ function App() {
     <header className='text-gray-700 border-b border-white-900'>
       <div className='container flex mx-auto p-5 flex-col md:flex-row items-center'>
         <a href='#' className='font-medium text-gray-900 mb-4 md:mb-0'>
-          <span className='text-x1 ml-3'><img src="../img/S__95608835.JPG" alt="logo" width="500" height="500" /></span>
+          <span className='text-x1 ml-3'><img src="img/S__95608835.JPG" alt="logo" width="500" height="500" /></span>
         </a>
         <nav className='md:ml-auto text-base'>
           <a href='#home' className='mr-5 hover:text-blue-400 duration-300'>

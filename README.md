@@ -18,3 +18,4 @@ Currently, two official plugins are available:
 # ScientificPython
 # reacttailwind
 # reacttailwind
+# reacttailwind
